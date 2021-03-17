@@ -1,5 +1,5 @@
 # YouReader
-Open Source Youtube Caption Reader
+Open Source Youtube Caption Reader, developed by Richard Duong.
 
 How to use
 ==========
