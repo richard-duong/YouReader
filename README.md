@@ -1,6 +1,27 @@
 # YouReader
 Open Source Youtube Caption Reader, developed by Richard Duong.
 
+
+------------------------------
+<a name="table-of-contents"/>
+
+Table Of Contents
+=================
+1. [Overview](#overview)<br>
+2. [Table Of Contents](#table-of-contents)<br>
+3. [First time setup](#first-time-setup)<br>
+          a) [Linux/Mac Setup](#linux-setup)<br>
+          b) [Windows Setup](#windows-setup)<br>
+          c) [Git Bash on Windows Setup](#git-bash-setup)<br>
+5. [How to use](#how-to-use)<br>
+          a) 
+5. [References](#references)<br>
+
+
+
+-----------
+<a name="how-to-use"/>
+
 How to use
 ==========
 This repository contains sample data extracted from YouTube. The directory structure is as follows:
